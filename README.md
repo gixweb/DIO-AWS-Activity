@@ -15,8 +15,7 @@ O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada u
 
 Etapa 1: 
 - Banco de dados relacional
-- [Nome da ferramenta]
-- [Foco da ferramenta]
+- Organizar os dados em um banco de dados, com a utilização de tabelas
 - [DescriÃ§Ã£o de caso de uso]
 
 Etapa 2: 
